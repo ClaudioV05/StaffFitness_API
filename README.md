@@ -1,28 +1,10 @@
-# Adonis API application
+StaffFitness - Application Programming Interface (API)
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+## Project status: Finished
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+## 🛠 Development tools
 
-## Setup
+The following tools were used in building the project:
 
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+- [Node.js](https://nodejs.org/en/)
+- [Adonis JS](https://adonisjs.com/)
